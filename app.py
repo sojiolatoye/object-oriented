@@ -1,0 +1,6 @@
+userinput = int(input("Please enter the Product Code:"))
+userinput2 = str(input("Please enter the Product Name:"))
+userinput3 = float(input("Please enter the Product Sale Price:"))
+userinput4 = float(input("Please enter the Product Manufacture Cost:"))
+userinput5 = int(input("Please enter the Current Stock:"))
+userinput6 = int(input("Please enter estimated monthly production:"))
